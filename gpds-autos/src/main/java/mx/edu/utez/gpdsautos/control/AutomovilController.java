@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+//modficacion de prueba
 @RestController
 @RequestMapping("/api/automoviles")
 public class AutomovilController {
